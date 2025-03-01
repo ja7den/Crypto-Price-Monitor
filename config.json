@@ -1,0 +1,39 @@
+{
+    "telegram_bot_token": "Telegram-Bot-Token",
+    "telegram_channel_id": "Telegram-Channel/groupID",
+    "discord_webhook": "Your-Discord-Webhook",
+    "tokens": [
+        {
+            "symbol": "BTC",
+            "threshold": 500
+        },
+        {
+            "symbol": "ETH",
+            "threshold": 100
+        },
+        {
+            "symbol": "LTC",
+            "threshold": 0.5
+        },
+        {
+            "symbol": "LINK",
+            "threshold": 0.5
+        },
+        {
+            "symbol": "AAVE",
+            "threshold": 2.5
+        },
+        {
+            "symbol": "SOL",
+            "threshold": 2.5
+        },
+        {
+            "symbol": "TRX",
+            "threshold": 0.03
+        },
+        {
+            "symbol": "XMR",
+            "threshold": 1
+        }
+    ]
+}
